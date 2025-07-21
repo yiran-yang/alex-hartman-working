@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on </title>
-    <link>https://alexandra-hartman/</link>
+    <link>https://yiran-yang.github.io/alex-hartman-working/</link>
     <description>Recent content in About Me on </description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <atom:link href="https://alexandra-hartman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yiran-yang.github.io/alex-hartman-working/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Research</title>
-      <link>https://alexandra-hartman/my-research/</link>
+      <link>https://yiran-yang.github.io/alex-hartman-working/my-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alexandra-hartman/my-research/</guid>
+      <guid>https://yiran-yang.github.io/alex-hartman-working/my-research/</guid>
       <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;peer-reviewed-journal-articles&#34;&gt;Peer-reviewed Journal Articles&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;A Field of Her Own? Property Rights and Women’s Agency in&#xA;Myanmar&lt;/strong&gt;&lt;br&gt;&#xA;With Edmund Malesky, Lakshmi Iyer, and Alexander Fertig —&#xA;&lt;em&gt;Forthcoming&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Journal Article Title&lt;/strong&gt;&lt;br&gt;&#xA;Co-authors - &lt;em&gt;Publication date&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;alternative-dispute-resolution-in-liberia&#34;&gt;Alternative Dispute Resolution in Liberia&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Randomised Evaluation 2009–2013&lt;/strong&gt;&lt;br&gt;&#xA;Using alternative dispute resolution training to resolve property disputes and&#xA;associated violence.&lt;br&gt;&#xA;&lt;a href=&#34;https://poverty-action.org/study/community-education-preserve-peace-rural-liberia&#34;&gt;Read more on the IPA&#xA;website&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-name&#34;&gt;Project Name&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Project type &amp;amp; Year&lt;/strong&gt;&#xA;[link] ()&lt;br&gt;&#xA;Description&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Teaching</title>
-      <link>https://alexandra-hartman/my-teaching/</link>
+      <link>https://yiran-yang.github.io/alex-hartman-working/my-teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alexandra-hartman/my-teaching/</guid>
+      <guid>https://yiran-yang.github.io/alex-hartman-working/my-teaching/</guid>
       <description>&lt;h4 id=&#34;i-teach-the-following-courses-at-ucl&#34;&gt;I teach the following courses at UCL:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;PUBL0010&lt;/strong&gt;: Introduction to Qualitative Research Methods&#xA;(Undergraduate)&lt;/p&gt;&#xA;&lt;p&gt;CODE: Module Name (Level)&lt;/p&gt;</description>
     </item>
   </channel>
